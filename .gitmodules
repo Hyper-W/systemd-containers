@@ -1,0 +1,9 @@
+[submodule "debian-systemd-container"]
+	path = debian-systemd-container
+	url = git@github.com:Hyper-W/debian-systemd-container.git
+[submodule "alpine-openrc-container"]
+	path = alpine-openrc-container
+	url = git@github.com:Hyper-W/alpine-openrc-container.git
+[submodule "ubuntu-systemd-container"]
+	path = ubuntu-systemd-container
+	url = git@github.com:Hyper-W/ubuntu-systemd-container.git
