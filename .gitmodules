@@ -7,3 +7,6 @@
 [submodule "ubuntu-systemd-container"]
 	path = ubuntu-systemd-container
 	url = git@github.com:Hyper-W/ubuntu-systemd-container.git
+[submodule "rocky-systemd-container"]
+	path = rocky-systemd-container
+	url = https://github.com/Hyper-W/rocky-systemd-container.git
